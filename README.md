@@ -1,3 +1,5 @@
+![Grammy Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=grammy-jiang&show_icons=true)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on [grammy-jiang/Amphisbaena](https://github.com/grammy-jiang/Amphisbaena)
