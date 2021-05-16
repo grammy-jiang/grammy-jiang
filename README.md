@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ### Certificates
 
 * [Ruifeng Jiang - GrammyJiang | HackerRank](https://www.hackerrank.com/GrammyJiang)
+* [AWS Certified Cloud Practitioner - Credly](https://www.credly.com/badges/30bb3a4d-ebe4-4bde-afe7-3e246bc373ee)
